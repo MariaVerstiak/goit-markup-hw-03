@@ -272,6 +272,7 @@ ul{
     display: flex;
     gap: 24px;
     padding-bottom: 120px;
+    border-radius: 0 0 4px 4px;
 }
 
 .team-list{
