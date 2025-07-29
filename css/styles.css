@@ -234,7 +234,10 @@ ul{
 
 .studio-list-punkts{
     width: calc((100% - 72px) / 4);
-    border-radius: 0 0 4px 4px;
+    border-top-left-radius: 0px; 
+    border-top-right-radius: 0px ; 
+    border-top-right-radius: 4px; 
+    border-bottom-left-radius:4px;
 }
 
 .studio-list-title{
