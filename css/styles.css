@@ -233,8 +233,8 @@ ul{
 }
 
 .studio-list-punkts{
-    border-radius: 0 0 4px 4px;
     width: calc((100% - 72px) / 4);
+    border-radius: 0 0 4px 4px;
 }
 
 .studio-list-title{
