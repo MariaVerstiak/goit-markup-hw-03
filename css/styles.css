@@ -216,6 +216,7 @@ ul{
 .studio{
     padding-top: 120px;
     padding-bottom: 120px;
+    border-radius: 0px 0px 4px 4px;
 }
 
 .studio-title{
@@ -230,7 +231,6 @@ ul{
     align-items:  center;
     display: flex;
     gap: 24px;
-    border-radius: 0px 0px 4px 4px;
 }
 
 .studio-list-punkts{
