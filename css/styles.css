@@ -258,8 +258,6 @@ ul{
     padding: 120px 0;
 }
 
-.our-team
-
 .team-title{
     font-weight: 500;
     font-size: 36px;
@@ -283,7 +281,7 @@ ul{
     border-radius: 0px 0px 4px 4px;
 }
 
-.team-mem-descripteion{
+.team-mem-description{
     padding: 32px 0;
 }
 
